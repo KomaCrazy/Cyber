@@ -1,1 +1,1 @@
-<?php phpinofo(); ?>
+<?php echo phpinofo(); ?>
